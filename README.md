@@ -2,4 +2,5 @@
 
 Minimalistic Netflix Landing Page:-
 
-This project is a minimalist clone of the Netflix landing page, created entirely with HTML and CSS. Explore the responsive design, layout, and styling that closely resembles the original Netflix interface.
+This project is a minimalist landing page inspired by Netflix, created entirely with HTML and CSS to design a clean interface with movie/show thumbnails, a search bar, and organized sections. And also ensured responsiveness for various screen sizes.
+
